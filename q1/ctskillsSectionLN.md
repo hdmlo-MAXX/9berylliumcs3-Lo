@@ -30,21 +30,39 @@ Sometimes, the vending machine has trouble with giving the correct amount of cha
 Vending machine is calibrated wrongly.
 ### Pseudocode
 START
+
 Ask user if they want to recalibrate
+
 If user picks 'yes':
-  Open calibration panel
-  If user picks 'recalibrate':
-    Ask user what they want to recalibrate
-    If user picks 'float':
-      System recalibrates float
-      Shows user "Recalibration Complete"
-      END
-    Else if user picks 'int':
-      System recalibrates int
-      Shows user "Recalibration Complete"
-      END
-  If user picks 'return':
-    return to Start
+
+Open calibration panel
+
+If user picks 'recalibrate':
+
+Ask user what they want to recalibrate
+
+If user picks 'float':
+
+System recalibrates float
+
+Shows user "Recalibration Complete"
+
+END
+
+Else if user picks 'int':
+
+System recalibrates int
+
+Shows user "Recalibration Complete"
+
+END
+
+If user picks 'return':
+
+return to Start
+
 If user picks 'no':
-  END
+
+END
+
 END
