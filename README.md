@@ -4,8 +4,9 @@ README.md
 
 **Heinrich David M. Lo**
 **9-Beryllium**
-
-**Personal Information:**
-# Phone Number - 09079933004
-# Facebook - Heinrich David Mago Lo
-# Rhythm Gamer
+**2026-2027**
+---
+# Quarter 1
+## Activities
+### Computational Thinking Skills
+[View my Computational Thinking Exercise](q1/ctskillsBerylliumLo.md)
