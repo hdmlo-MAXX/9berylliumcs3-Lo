@@ -13,6 +13,7 @@ e. CONSIDER only the year of birth.
 ---
 
 ## Python Code ('zoidiacBerylliumLo.py')
+``` python
 
 try:
     year = int(input("Enter your birth year: "))
@@ -43,7 +44,7 @@ zodiac = [
 ]
 
 print(f"Your Chinese Zodiac Sign is: {zodiac[index]}")
-
+```
 ---
 
 ## Documentation
