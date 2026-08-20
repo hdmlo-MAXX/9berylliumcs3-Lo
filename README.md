@@ -14,3 +14,4 @@ README.md
 ## Activities
 ### Computational Thinking Skills
 [View my Computational Thinking Exercise](q1/ctskillsBerylliumLo.md)
+[View my Zodiac Sign Exercise](q1/zodiacBerylliumLo.md)
