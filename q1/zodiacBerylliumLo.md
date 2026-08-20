@@ -46,3 +46,7 @@ print(f"Your Chinese Zodiac Sign is: {zodiac[index]}")
 
 ---
 
+## Documentation
+
+![Documentation1](<Screenshot 2026-08-20 235949.png>)
+![Documentation2](<Screenshot 2026-08-20 235943.png>)
