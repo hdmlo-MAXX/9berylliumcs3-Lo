@@ -17,7 +17,7 @@
 #### | FollowPlayer(Yes or No: Boolean) | Allows you to become a fan of the player and support him in his future matches |
 
 ## Class Diagram --
-![Class Diagram](<>)
+![Class Diagram](<Screenshot 2026-09-01 130755.png>)
 
 ## Design Explanation
 ### Why did you choose this class?
