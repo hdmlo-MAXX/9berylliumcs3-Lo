@@ -1,7 +1,8 @@
 **# SG4 - Understanding Classes and Objects**
 
 ## FootballPlayer
-### The basic information about a Football Player
+
+## The basic information about a Football Player
 
 ### Properties --
 #### | Property | Data Type | Description |
