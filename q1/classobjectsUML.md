@@ -1,10 +1,9 @@
 **# SG4 - Understanding Classes and Objects**
 
 ## FootballPlayer
+# The basic information about a Football Player
 
-## The basic information about a Football Player
-
-## Properties --
+ Properties --
 *| Property | Data Type | Description |*
 *| Name     | String    | The name of the Football Player |*
 *| Age      | Integer   | The number of years the Player has lived |*
