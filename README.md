@@ -22,4 +22,4 @@ README.md
 [View my OOP Concept ILA](q1/ila_oop.md)
 
 ### OOPAct
-[View my OOPAct Activity](q1/classobjectUML.md)
+[View my OOPAct Activity](q1/classobjectsUML.md)
