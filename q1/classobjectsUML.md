@@ -14,7 +14,7 @@
 
 Methods --
 | Name | Description |
-|---|---|| | |
+|---|---|
 | DisplayAppearances() | Checks the amount of Appearances the player has made in his professional career |
 | DisplayG/A() | Checks the amount of Goal/Assists contributions the player made in his career |
 | FollowPlayer(Yes or No: Boolean) | Allows you to become a fan of the player and support him in his future matches |
