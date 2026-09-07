@@ -10,12 +10,12 @@
 | Name     | String    | The name of the Football Player |
 | Age      | Integer   | The number of years the Player has lived |
 | Club     | String    | The current club the Player is playing for |
-| FeePaid | Integer | The Amount of money the player was paid for by the club |
+| WagePW | Integer | The Amount of money the player earns per week at the club |
 
 Methods --
 | Name | Description |
 |---|---|
-| DisplayWages() | Checks the amount wage the player is making per week at the club |
+| DisplayAppearances() | Checks the the amount of appearances the player has made for the club |
 | DisplayG/A() | Checks the amount of Goal/Assists contributions the player made in his career |
 | FollowPlayer(Yes or No: Boolean) | Allows you to become a fan of the player and support him in his future matches |
 
@@ -34,5 +34,4 @@ Methods --
 
 ## Design Revision
 Changes from my previous design:
-YearJoined to FeePaid
-DisplayAppearances to DisplayWages
+YearJoined to WagePW
