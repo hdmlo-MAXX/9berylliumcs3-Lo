@@ -7,17 +7,17 @@
  Properties --
 | Property | Data Type | Description |
 |---| ---|---|
-| +Name     | String    | The name of the Football Player |
-| +Age      | Integer   | The number of years the Player has lived |
-| +Club     | String    | The current club the Player is playing for |
-| -WagePW | Integer | The Amount of money the player earns per week at the club |
+| Name     | String    | The name of the Football Player |
+| Age      | Integer   | The number of years the Player has lived |
+| Club     | String    | The current club the Player is playing for |
+| WagePW | Integer | The Amount of money the player earns per week at the club |
 
 Methods --
 | Name | Description |
 |---|---|
-| +DisplayAppearances() | Checks the the amount of appearances the player has made for the club |
-| +DisplayG/A() | Checks the amount of Goal/Assists contributions the player made in his career |
-| +FollowPlayer(Yes or No: Boolean) | Allows you to become a fan of the player and support him in his future matches |
+| DisplayAppearances() | Checks the the amount of appearances the player has made for the club |
+| DisplayG/A() | Checks the amount of Goal/Assists contributions the player made in his career |
+| FollowPlayer(Yes or No: Boolean) | Allows you to become a fan of the player and support him in his future matches |
 
 ## Class Diagram --
 ![Class Diagram](<Screenshot 2026-09-01 130755.png>)
