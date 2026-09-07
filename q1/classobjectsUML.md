@@ -15,7 +15,7 @@
 Methods --
 | Name | Description |
 |---|---|
-| DisplayAppearances() | Checks the amount of Appearances the player has made in his professional career |
+| DisplayWages() | Checks the amount wage the player is making per week at the club |
 | DisplayG/A() | Checks the amount of Goal/Assists contributions the player made in his career |
 | FollowPlayer(Yes or No: Boolean) | Allows you to become a fan of the player and support him in his future matches |
 
@@ -35,3 +35,4 @@ Methods --
 ## Design Revision
 Changes from my previous design:
 YearJoined to FeePaid
+DisplayAppearances to DisplayWages
