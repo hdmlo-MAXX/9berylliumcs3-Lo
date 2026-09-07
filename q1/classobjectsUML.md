@@ -10,7 +10,7 @@
 | Name     | String    | The name of the Football Player |
 | Age      | Integer   | The number of years the Player has lived |
 | Club     | String    | The current club the Player is playing for |
-| YearJoined | Integer | The year the Player joined the club |
+| FeePaid | Integer | The Amount of money the player was paid for by the club |
 
 Methods --
 | Name | Description |
@@ -31,3 +31,7 @@ Methods --
 
 ### Which method is the most useful? Why?
 #### The most useful method would be the FollowPlayer method. After looking at everything the football player has to offer, the user can decide whether to follow the player or not. The FollowPlayer method will allow the ability to follow future matches of the player without the need to find another external site that also does the same, which can be time consuming.
+
+## Design Revision
+Changes from my previous design:
+YearJoined to FeePaid
