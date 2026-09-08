@@ -4,7 +4,6 @@ class FootballPlayer:
       self.Age = Age
       self.Club = Club
       self.WagePW = WagePW
-      self.Follow = False
 
     def DisplayPlayerInfo(self):
         print(f"Name: {self.Name}")
