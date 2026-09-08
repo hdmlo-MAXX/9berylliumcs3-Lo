@@ -21,5 +21,8 @@ README.md
 ### OOP Concept
 [View my OOP Concept ILA](q1/ila_oop.md)
 
-### OOPAct
-[View my OOPAct Activity](q1/classobjectsUML.md)
+### OOPAct Part 1
+[View my OOPAct Part 1 Activity](q1/classobjectsUML.md)
+
+#### OOPAct Part 2
+[View my OOPAct Part 2 Activity](q1/classAttributesMethods.md)
