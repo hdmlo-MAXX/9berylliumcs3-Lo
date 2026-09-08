@@ -9,9 +9,15 @@ class FootballPlayer:
         print(f"Name: {self.Name}")
         print(f"Age: {self.Age}")
         print(f"Club: {self.Club}")
-        print(f"Wage Per Week: {self.__WagePW}")
 
-    def ShowWages(self):
-        return self.__WagePW
+     def ShowWages(self):
+        wage = len(self.Name) * 1000
+        print(f"{self.Name} earns {wage} per week.")
 
-ShowWages = FootballPlayer("Jude", 36, "Baby United", 1000000)
+    def FollowPlayer(self):
+        choose = print(f" Would you like to follow {self.Name}?")
+        if choose == True:
+            print(f"You are now following {self.Name}")
+        elif choose == False:
+            print(f"You are not following {self.Name}")
+
