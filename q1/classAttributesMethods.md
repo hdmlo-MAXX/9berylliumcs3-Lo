@@ -16,7 +16,7 @@ Describe any changes made to your original class.
 | WagePW | integer | - | Because wage is not a necessary public information to know about a player  |
 
 ## Updated UML Class Diagram
-![Class Diagram](q1/image.png)
+![Class Diagram](images/image.png)
 
 ## Python Implementation
 [View Python Source](classImplementation.py)
