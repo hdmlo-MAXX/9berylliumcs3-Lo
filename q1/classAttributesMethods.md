@@ -6,7 +6,11 @@ Link to my previous activity:
 [classobjectUML.md](classobjectUML.md)
 
 ## Design Revision
-Describe any changes made to your original class.
+Changes from my previous design:
+YearJoined to WagePW
+DisplayG/A() to ShowWages()
+DisplayAppearances() to DisplayPlayerInfo()
+
 ## Visibility Decisions
 | Attribute | Data Type | Visibility | Reason |
 |---|---|---|---|
