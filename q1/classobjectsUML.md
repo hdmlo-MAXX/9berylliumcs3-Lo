@@ -15,7 +15,7 @@
 Methods --
 | Name | Description |
 |---|---|
-| DisplayAppearances() | Checks the the amount of appearances the player has made for the club |
+| DisplayPlayerInfo() | Displays the Player and his Information |
 | ShowWages() | Shows the wage per week of a person that's hidden in the public player information |
 | FollowPlayer(Yes or No: Boolean) | Allows you to become a fan of the player and support him in his future matches |
 
@@ -36,3 +36,4 @@ Methods --
 Changes from my previous design:
 YearJoined to WagePW
 DisplayG/A() to ShowWages()
+DisplayAppearances() to DisplayPlayerInfo()
