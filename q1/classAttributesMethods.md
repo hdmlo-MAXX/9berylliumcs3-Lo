@@ -22,7 +22,7 @@ Describe any changes made to your original class.
 [View Python Source](classImplementation.py)
 
 ## Test Run
-![Test Run](q1/images/classTestRun.png)
+![Test Run](images/classTestRun.png)
 
 ## Object Diagram
 ![Object Diagram](q1/objectDiagram.png)
