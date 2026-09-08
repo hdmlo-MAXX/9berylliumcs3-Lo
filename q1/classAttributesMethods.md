@@ -25,7 +25,7 @@ Describe any changes made to your original class.
 ![Test Run](images/classTestRun.png)
 
 ## Object Diagram
-![Object Diagram](q1/objectDiagram.png)
+![Object Diagram](images/objectDiagram.png)
 
 ## Analysis
 ### Why did you make your chosen attribute private?
