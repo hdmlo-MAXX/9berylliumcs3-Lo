@@ -29,6 +29,13 @@ Describe any changes made to your original class.
 
 ## Analysis
 ### Why did you make your chosen attribute private?
+#### Because the wages of a player is not not necessary, and only the public information is good enough to present to the user.
+
 ### Which method changes the state of your object?
+#### The "FollowPlayer" function, it changes the state of the object to True or False, and "CheckWages" function, where the original wage is zero, but later changes depending on the length of the player's name times one thousand.
+
 ### How did your two objects demonstrate that instances are independent?
+#### Both objects were not affected by the collateral if both objects were dependent, and both objects also had different values from each other, hence showing independence.
+
 ### What is the difference between your class diagram and your object diagram?
+####My class diagram shows the objects and methods of the class, without any changing or final variables. My object diagram on the other hand, shows the created objects and their FINAL value variable.
