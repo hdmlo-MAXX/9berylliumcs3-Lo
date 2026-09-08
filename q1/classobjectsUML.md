@@ -32,6 +32,15 @@ Methods --
 ### Which method is the most useful? Why?
 #### The most useful method would be the FollowPlayer method. After looking at everything the football player has to offer, the user can decide whether to follow the player or not. The FollowPlayer method will allow the ability to follow future matches of the player without the need to find another external site that also does the same, which can be time consuming.
 
+# Part 2
+## Visibility Decisions
+| Attribute | Data Type | Visibility | Reason |
+|---|---|---|---|
+| Name | string | + | People must know the player's name in order to identify and know more about the player |
+| Age | integer | + | So people know how old the player is and base their criticism on the player's performance at that age |
+| Club | string | + | People must know the player's club in order to identify the club the player plays for and reduce confusion with a player of the same name as another player |
+| WagePW | integer | - | Because wage is not a necessary public information to know about a player  |
+
 ## Design Revision
 Changes from my previous design:
 YearJoined to WagePW
