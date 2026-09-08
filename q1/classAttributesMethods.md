@@ -38,4 +38,4 @@ Describe any changes made to your original class.
 #### Both objects were not affected by the collateral if both objects were dependent, and both objects also had different values from each other, hence showing independence.
 
 ### What is the difference between your class diagram and your object diagram?
-####My class diagram shows the objects and methods of the class, without any changing or final variables. My object diagram on the other hand, shows the created objects and their FINAL value variable.
+#### My class diagram shows the objects and methods of the class, without any changing or final variables. My object diagram on the other hand, shows the created objects and their FINAL value variable.
