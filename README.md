@@ -26,3 +26,6 @@ README.md
 
 #### OOPAct Part 2
 [View my OOPAct Part 2 Activity](q1/classAttributesMethods.md)
+
+#### OOPAct Part 3
+[View my OOPAct Part 2 Activity](q1/classRelationships.md)
