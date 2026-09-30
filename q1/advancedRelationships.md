@@ -37,5 +37,7 @@ between the two objects.
 4. What is the difference between Association from Part III and the advanced relationship you
 implemented?
 5. How does your design follow the DRY principle?
-Answers:
-1. 
+
+### Answers:
+1. I chose this inheritance relationship because of it's application in the real world. A football player can exist without a club, and a club can exist without a player. The child is a type of parent class because they both contain information from the sport and are similar.
+2. The reduced code
