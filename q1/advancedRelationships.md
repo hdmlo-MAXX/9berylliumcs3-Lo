@@ -6,7 +6,9 @@
 ## Existing System Description:
 ## Inheritance Relationship
 Parent: Football Club
+
 Child: Football Player
+
 Explanation: A football player plays for a football club. The information of a football player can be traced back to the football club. 
 
 ## Inheritance UML
@@ -14,6 +16,7 @@ Explanation: A football player plays for a football club. The information of a f
 
 ## Composition/Aggregation
 Relationship: Weak HAS-A relationship
+
 Explanation: A football player can exist without a football club; they are called 'free agents'. 'Free Agents' are player without a club and can be signed by a club without a transfer fee.
 
 ## Advanced UML Diagram
@@ -40,4 +43,4 @@ implemented?
 
 ### Answers:
 1. I chose this inheritance relationship because of it's application in the real world. A football player can exist without a club, and a club can exist without a player. The child is a type of parent class because they both contain information from the sport and are similar.
-2. The reduced code
+2. Inheritance is like an automatic process in which code is recycled instead of being created. 
