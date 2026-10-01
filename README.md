@@ -31,4 +31,4 @@ README.md
 [View my OOPAct Part 3 Activity](q1/classRelationships.md)
 
 #### OOPAct Part 4
-[View my OOPAct Part 4 Activity](q1/advancedClassRelationships.md)
+[View my OOPAct Part 4 Activity](q1/advancedRelationships.md)
