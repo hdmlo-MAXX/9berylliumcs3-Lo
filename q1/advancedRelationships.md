@@ -15,7 +15,7 @@ Explanation: A football player plays for a football club. The information of a f
 ![Inheritance](images/inheritanceDiagram.png)
 
 ## Composition/Aggregation
-Relationship: Weak HAS-A relationship
+Relationship: Aggregation/Weak HAS-A relationship
 
 Explanation: A football player can exist without a football club; they are called 'free agents'. 'Free Agents' are player without a club and can be signed by a club without a transfer fee.
 
@@ -43,4 +43,7 @@ implemented?
 
 ### Answers:
 1. I chose this inheritance relationship because of it's application in the real world. A football player can exist without a club, and a club can exist without a player. The child is a type of parent class because they both contain information from the sport and are similar.
-2. Inheritance is like an automatic process in which code is recycled instead of being created. 
+2. Inheritance is like an automatic process in which code is recycled instead of being created. It grabs an already existing code and reuses it for another purpose. The attributes reused are name club.
+3. My code is an aggregation relationship because it can exist without the parent function. In the code, the player references the club, but the club can exist independently without the player. Because of this, the lifecycle relationship between the two is independent.
+4. The key difference between part III and part IV is the applicated reusing of code. Association determines the relationship between the parent function and child function. Inheritance is the application of the relationship of the functions.
+5. The design follows the DRY principle because of the use of inheritance. The design uses delegate attribute assignment in where the 'self.club = club' is delegated to the parent function instead of assigning it again to the child function. because of this, the code is be easily reused and doesn't require duplicate code.
