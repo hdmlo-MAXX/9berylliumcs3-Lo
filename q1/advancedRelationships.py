@@ -1,14 +1,14 @@
-class ParentClass:
-  def __init__(self, club):
+class Club:
+  def __init__(self, name):
+    self.name = name
+
+class Player:
+  def __init__(self, name, club):
+    self.name = name
     self.club = club
+    
+ipswich = Club("Ipswich Town")
+player1 = Player("Enciso", ipswich)
 
-class ChildClass(ParentClass):
-  def __init__(self, club, player):
-    super().__init__(club)
-    self.player = player
-
-player1 = ChildClass("Ipswich Town", "Enciso")
-#Club
-print(player1.club)
-#Player
-print(player1.player)
+print(player1.club.name)
+print(player1.name)       
