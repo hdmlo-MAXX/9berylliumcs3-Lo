@@ -1,16 +1,16 @@
 README.md
 
-**#Heinrich Lo's Text File#**
+🗒️ **#<sub>Heinrich</sub> <sup>Lo's</sup> <sub>Text</sub> <sup>File</sup>#** 🗒️
 
-**Heinrich David M. Lo**
+🆒**Heinrich David M. Lo**🆒
 
-**9-Beryllium**
+🔹**9-Beryllium**🔹
 
-**2026-2027**
+🗓️**2026-2027**🗓️
 
 ---
 
-# Quarter 1
+# Quarter 1 🥇
 ## Activities
 ### Computational Thinking Skills
 [View my Computational Thinking Exercise](q1/ctskillsBerylliumLo.md)
@@ -35,7 +35,7 @@ README.md
 
 ---
 
-# Quarter 2
+# Quarter 2 🥈
 ## Activities
 ### Encapsulation Activity 3
 [View my Encapsulation Activity 3](q2/sg8_encapsulation.py)
