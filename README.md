@@ -37,5 +37,5 @@ README.md
 
 # Quarter 2
 ## Activities
-### Encapsulation Activity
-
+### Encapsulation Activity 3
+[View my Encapsulation Activity 3](q2/sg8_encapsulation.py)
