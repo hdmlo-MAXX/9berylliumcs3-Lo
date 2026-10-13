@@ -32,3 +32,10 @@ README.md
 
 #### OOPAct Part 4
 [View my OOPAct Part 4 Activity](q1/advancedRelationships.md)
+
+---
+
+# Quarter 2
+## Activities
+### Encapsulation Activity
+
