@@ -39,3 +39,6 @@ README.md
 ## Activities
 ### Encapsulation Activity 3
 [View my Encapsulation Activity 3](q2/sg8_encapsulation.py)
+
+### Inheritance Formative Assessment
+[View my Inheritance Formative Assessment](q2/sg9_inheritance.py)
