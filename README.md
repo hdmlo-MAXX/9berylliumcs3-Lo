@@ -44,4 +44,4 @@ README.md
 [View my Inheritance Formative Assessment](q2/sg9_inheritance.py)
 
 ### Method Overriding Activity
-[View my Method Overriding Activity](q2/sg10_methodOverride.py)
+[View my Method Overriding Activity](q2/sg10_methodOverriding.py)
