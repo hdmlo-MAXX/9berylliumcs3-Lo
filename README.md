@@ -46,7 +46,8 @@ README.md
 ### Method Overriding Activity
 [View my Method Overriding Activity](q2/sg10_methodOverriding.py)
 
-### Polymorphism activity 1 & 2
+### Polymorphism activity 1
 [View my Polymorphism activity 1](q2/sg11_activity1.py)
 
+### Polymorphism activity 2
 [View my Polymorphism activity 2](q2/sg11_activity2.py)
