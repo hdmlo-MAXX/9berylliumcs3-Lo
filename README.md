@@ -24,13 +24,13 @@ README.md
 ### OOPAct Part 1
 [View my OOPAct Part 1 Activity](q1/classobjectsUML.md)
 
-#### OOPAct Part 2
+### OOPAct Part 2
 [View my OOPAct Part 2 Activity](q1/classAttributesMethods.md)
 
-#### OOPAct Part 3
+### OOPAct Part 3
 [View my OOPAct Part 3 Activity](q1/classRelationships.md)
 
-#### OOPAct Part 4
+### OOPAct Part 4
 [View my OOPAct Part 4 Activity](q1/advancedRelationships.md)
 
 ---
